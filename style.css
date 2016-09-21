@@ -2,6 +2,10 @@
 footer {
 	background-color: #333333;
 }
-
-
-
+.bg {
+	background-size: cover;
+	background-position: center center;
+}
+.bg.bg.bg > div {
+	padding: 160px;
+}
